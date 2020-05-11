@@ -20,7 +20,7 @@
     "lib/",
     "index.js"
   ],
-  "browser": "/dist/pica.js",
+  "module": "/dist/pica.js",
   "browserify": {
     "transform": [
       [
